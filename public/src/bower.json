@@ -1,0 +1,19 @@
+{
+  "name": "spacebox",
+  "version": "0.0.0",
+  "authors": [
+    "Jordan Curzon <curzonj@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "phaser": "~2.0.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
