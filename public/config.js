@@ -12,8 +12,8 @@
         }
     });
 
-    require(['src/game'], function(Game) {
-        var game = new Game();
-        game.start();
+    require(['src/builder'], function(Builder) {
+        var builder = new Builder();
+        builder.start();
     });
 })();
