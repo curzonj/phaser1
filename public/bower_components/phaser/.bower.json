@@ -34,7 +34,6 @@
     "commit": "312d41912763d901490a6e00d461f95bf0bf475f"
   },
   "_source": "git://github.com/nDmitry/bower-phaser.git",
-  "_target": "~2.0.4",
-  "_originalSource": "phaser",
-  "_direct": true
+  "_target": "*",
+  "_originalSource": "phaser"
 }

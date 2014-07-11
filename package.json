@@ -2,6 +2,7 @@
   "name": "spacebox",
   "version": "0.0.0",
   "dependencies": {
-    "bower": ">=0.0.0"
+    "bower": ">=0.0.0",
+    "bower-requirejs": ">=0.0.0"
   }
 }

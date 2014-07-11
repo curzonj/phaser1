@@ -7,7 +7,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "phaser": "~2.0.4"
+    "phaser": "latest",
+    "requirejs": "latest"
   },
   "ignore": [
     "**/.*",
