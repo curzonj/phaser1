@@ -1,7 +1,6 @@
-just a test
+I'm playing around with:
 
-deterministic game state mutation both on the server and on the clientside
+* [Phaser.js](http://phaser.io/)
+* [Require.js](http://requirejs.org/)
+* [Bower](http://bower.io/)
 
-lots of games work server side and client side by using c++. you either need the same language on both sides or you need 2 implementations that are synchronized
-
-minecraft does tps, ticks per second, and you get block lag when you interact with the world and then the update comes back from the server that it didn't really happen. in that case it's using java on both sides
